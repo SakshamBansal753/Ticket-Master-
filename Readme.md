@@ -6,9 +6,7 @@ This project is a conceptual event-booking platform. The high-level
 design separates client requests from core services for event
 management, event search, booking, payments, and scheduled maintenance.
 
-> This README is based on the handwritten architecture diagram. Details
-> not explicitly shown in the diagram are marked as proposed
-> implementation guidance.
+
 
 ## Architecture
 
